@@ -6,9 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/escaperoom.unity
-    guid: 8fd525ed8334b4141adb7f754066390e
+    path: Assets/Scenes/intro.unity
+    guid: d2d948fcbca3ac5408782ae6fc45a483
   - enabled: 1
-    path: Assets/player file.unity
-    guid: b7decb226df6d494797ea714ed067dc4
+    path: Assets/Scenes/menu.unity
+    guid: dd7b4c8d2e086a44e9374f70057d037f
+  - enabled: 1
+    path: Assets/Scenes/enter.unity
+    guid: 758ca0b3ecfedb14eadf412078c0c863
   m_configObjects: {}

@@ -928,7 +928,7 @@ GameObject:
   - component: {fileID: 1586671145}
   - component: {fileID: 1586671144}
   m_Layer: 5
-  m_Name: ESPACE ROOM
+  m_Name: Escape Room
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
